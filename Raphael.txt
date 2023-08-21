@@ -3,3 +3,5 @@ Aulas de Práticas Profissionais
 
 Aula do dia 21/08
   Usando VS Code para atualizar os arquivos
+
+  teste
