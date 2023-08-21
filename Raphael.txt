@@ -1,2 +1,5 @@
 Aulas de Práticas Profissionais
   Autor -> Raphael S.
+
+Aula do dia 21/08
+  Usando VS Code para atualizar os arquivos
